@@ -54,14 +54,14 @@ p{
 }
 
 #cards {
-    background-color: #e4e4e4;
+    background-color: #84a9ac;
     padding: 5%;
 }
 .card{
     border: 1px solid #000000 !important;
     box-shadow: 3px 7px;
     padding: 7px;
-    background-color: #8ccbbe !important;
+    background-color: #dddddd !important;
 }
 .card-title {
     color: #161514 !important;
