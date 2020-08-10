@@ -59,28 +59,29 @@ p{
     padding: 5%;
 }
 .card{
-    border: 1px solid #030303 !important;
-    padding: 7px;
-    background-color: #fff !important;
+    padding: 2px;
+    background-color: #1b262c !important;
     text-align: center;
 }
 .card-title {
-    color: #161514 !important;
+    color: #fff !important;
 }
 
 .btn-dark{
-    background-color: #fff !important;
+    background-color: #dddddd !important;
 
 }
 a {
-    color: #000000 !important;
+    color:#fff !important;
     text-decoration: none !important;
     font-weight: bold;
 }
 .btntitle {
     background-color: #000000 !important;
-    color: #fff !important;
     font-weight: bold !important;
+}
+.btnfile a {
+    color: #000000 !important;
 }
 #footer {
     background-color: #222831;
