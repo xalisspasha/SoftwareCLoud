@@ -78,8 +78,8 @@ a {
     font-weight: bold;
 }
 .btntitle {
-    background-color: rgb(207, 241, 53) !important;
-    color: #000000 !important;
+    background-color: #000000 !important;
+    color: #fff !important;
     font-weight: bold !important;
 }
 #footer {
