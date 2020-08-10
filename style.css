@@ -16,14 +16,14 @@ body{
 }
 .nav-link:hover {
     color: #000000 !important;
-    background-color: #f8d57e;
+    background-color: #eebb4d;
 }
 
 #cont {
    position: relative;
     padding: 10% 15%;
-    color: #fcf876;
-    background-color: #4b5d67;
+    color: #eebb4d;
+    background-color: #1b262c;
     
 }
 h1 {
@@ -34,8 +34,9 @@ h1 {
     #cont {
         position: relative;
          padding: 20% 14% 7% 3%;
-         color: #f8d57e;
-    background-color: #4b5d67;
+         color: #eebb4d;
+    background-color: #1b262c;
+   text-align: center;
          
      }
     .soft{
@@ -68,14 +69,19 @@ p{
 }
 
 .btn-dark{
-    background-color: #07031a !important;
+    background-color: #fff !important;
 
 }
 a {
-    color: #fff !important;
+    color: #000000 !important;
     text-decoration: none !important;
+    font-weight: bold;
 }
-
+.btntitle {
+    background-color: rgb(207, 241, 53) !important;
+    color: #000000 !important;
+    font-weight: bold !important;
+}
 #footer {
     background-color: #222831;
     color: #bbd196;
