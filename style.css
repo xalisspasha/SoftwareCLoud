@@ -54,7 +54,7 @@ p{
 }
 
 #cards {
-    background-color: #ffe78f;
+    background-color: #eebb4d;
     padding: 5%;
 }
 .card{
@@ -79,7 +79,7 @@ a {
 #footer {
     background-color: #222831;
     color: #bbd196;
-    padding: 5% 15%;
+    padding: 3% 15%;
     text-align: center;
 }
 .pfoot {
