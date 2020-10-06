@@ -23,7 +23,7 @@ body{
    position: relative;
     padding: 10% 15%;
     color: #eebb4d;
-    background-color: #1b262c;
+    background-color: #222831;
     
 }
 h1 {
@@ -35,7 +35,7 @@ h1 {
         position: relative;
          padding: 20% 14% 7% 3%;
          color: #eebb4d;
-    background-color: #1b262c;
+    background-color: #222831;
    text-align: center;
          
      }
@@ -55,13 +55,22 @@ p{
 }
 
 #cards {
-    background-color: #eebb4d;
+    background-color: #fbd46d;
     padding: 5%;
+}
+.title{
+    text-align: center;
 }
 .card{
     padding: 2px;
     background-color: #1b262c !important;
     text-align: center;
+}
+.clearn {
+    margin: 7px 5px;
+}
+.card-header {
+    color: #dddddd;
 }
 .card-title {
     color: #fff !important;
@@ -77,11 +86,22 @@ a {
     font-weight: bold;
 }
 .btntitle {
-    background-color: #000000 !important;
+    background-color: #0c0c0b !important;
     font-weight: bold !important;
+}
+.btntitle:hover {
+    background-color: #eeeeee !important;
+   color: #000000 !important;
 }
 .btnfile a {
     color: #000000 !important;
+}
+.btntitle a:hover {
+    color: #000000 !important; 
+}
+#learn {
+    background-color: #e8e8e8;
+    padding: 5%;
 }
 #footer {
     background-color: #222831;
